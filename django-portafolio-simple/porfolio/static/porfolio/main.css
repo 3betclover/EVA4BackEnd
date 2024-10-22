@@ -1,0 +1,87 @@
+
+/* Fondo principal */
+body {
+    background-color: #000000; /* Color negro */
+    color: #00FF00; 
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+    color: #00CC00; 
+}
+
+/* Links o elementos interactivos */
+a {
+    color: #33FF33; 
+}
+
+a:hover {
+    color: #009900; /* al pasar el ratón */
+}
+
+/* Botones */
+.btn {
+    background-color: #1A1A1A; 
+    color: #00FF00; 
+}
+
+.btn:hover {
+    background-color: #009900; /* al pasar el ratón */
+}
+
+/* Navbar */
+.navbar {
+    background-color: #333; 
+}
+
+.navbar a {
+    color: #00FF00; 
+}
+
+.navbar a:hover {
+    color: #33FF33; /*  al pasar el ratón */
+}
+
+
+.shadow-effect {
+    box-shadow: 0 4px 8px 0 rgba(0, 153, 0, 0.2); 
+}
+
+
+
+
+
+/*Fonts*/
+.neuropol-nova {
+    font-family: "neuropol-nova", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.neuropol-x-light-normal {
+    font-family: "neuropol-x-light", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.neuropol-x-light-italic {
+    font-family: "neuropol-x-light", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+.neuropol-x-light-bold {
+    font-family: "neuropol-x-light", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.neuropol-x-light-bold-italic {
+    font-family: "neuropol-x-light", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
